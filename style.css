@@ -1,0 +1,21 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+img {
+    max-height: 100px; 
+    display:grid;
+    place-items: center;
+   align-items: center;
+   
+}
+body{    
+background-color: lightsteelblue;
+color: green;
+border-color: darkviolet;
+margin-left: 34px;
+}
+a{
+    cursor: pointer;
+}
